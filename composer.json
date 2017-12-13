@@ -1,0 +1,21 @@
+{
+    "name": "MobliMediaInc/bounty-lib",
+    "description": "Basic module for support services that use APIs. ",
+    "license": "Enterprise",
+    "authors": [
+        {
+            "name": "Dmytro Gorpynenko",
+            "email": "dmytro@mobli.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Bounty\\": "Bounty/"
+        },
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
