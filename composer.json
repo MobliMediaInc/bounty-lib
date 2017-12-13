@@ -11,7 +11,7 @@
     "autoload": {
         "psr-4": {
           "Bounty\\": "Bounty/"
-        },
+        }
     },
     "extra": {
         "branch-alias": {
