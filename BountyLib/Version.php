@@ -1,6 +1,6 @@
 <?php
 
-namespace Bounty;
+namespace BountyLib;
 
 
 class Version
