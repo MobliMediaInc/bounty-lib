@@ -1,5 +1,7 @@
 <?php
 
+namespace BountyLib;
+
 class TaskChatMessages
 {
     const USER_MESSAGE = 0;
