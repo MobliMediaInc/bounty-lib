@@ -13,4 +13,5 @@ class TasksHistoryTypes
     const COMPLETED = 5;
     const CANCELED_BY_ADMIN = 6;
     const CANCELED_BY_USER = 7;
+    const NEED_REWORK = 8;
 }
